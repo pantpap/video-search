@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "ai-videos",
-    "slug": "ai-videos",
+    "name": "Aora-ai-videos",
+    "scheme": "aora",
+    "slug": "Aora-ai-videos",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
