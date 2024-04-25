@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "Aora-ai-videos",
-    "scheme": "aora",
-    "slug": "Aora-ai-videos",
+    "name": "Nephos-Clip-Finder",
+    "scheme": "nephosclipfinder",
+    "slug": "Nephos-Clip-Finder",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
