@@ -36,9 +36,14 @@ export default function App() {
               Where creativity meets innovation:
               embark on a journey of limitless exploration with Nephos.
             </Text>
-            <CustomButton />
+            <CustomButton
+              title="Continue with Email"
+              handlePress={() => console.log('Button pressed')}
+              containerStyles="w-full mt-7"
+            />
           </View>
         </ScrollView>
+        <StatusBar backgroundColor='#161622' style='light'/>
       </SafeAreaView>
         // <View className="flex-1 items-center justify-center bg-white">
         //     <Text className='text-3xl font-pblack'>Nephos Clip FInder!</Text>
